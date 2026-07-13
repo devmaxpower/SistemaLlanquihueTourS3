@@ -26,13 +26,27 @@ Finalmente, la aplicación incorpora una interfaz gráfica básica desarrollada 
 
 ---
 
-# 🧱 Estructura general del proyecto
+## 🧱 Estructura general del proyecto
 
 ```plaintext
-src
-├── data
-├── model
-└── ui
+LlanquihueTourApp
+├── dist
+│   └── LlanquihueTourApp.jar
+├── docs
+│   └── index.html
+├── src
+│   ├── data
+│   │   └── GestorEntidades.java
+│   ├── model
+│   │   ├── ColaboradorExterno.java
+│   │   ├── GuiaTuristico.java
+│   │   ├── Persona.java
+│   │   ├── Registrable.java
+│   │   └── Vehiculo.java
+│   └── ui
+│       └── LlanquihueTourApp.java
+├── .gitignore
+└── README.md
 ```
 
 ## 📂 Paquete `model`
