@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"model","l":"ColaboradorExterno"},{"p":"data","l":"GestorEntidades"},{"p":"model","l":"GuiaTuristico"},{"p":"ui","l":"LlanquihueTourApp"},{"p":"model","l":"Persona"},{"p":"model","l":"Registrable","k":"10"},{"p":"model","l":"Vehiculo"}];updateSearchResults();

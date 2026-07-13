@@ -22,6 +22,11 @@ public class LlanquihueTourApp {
     private static GestorEntidades gestor = new GestorEntidades();
 
     /**
+     * Evita la creación de instancias de la clase principal.
+     */
+    private LlanquihueTourApp() {
+    }
+    /**
      * Inicia la aplicación y muestra el menú principal.
      *
      * @param args argumentos recibidos desde la línea de comandos
