@@ -258,6 +258,37 @@ El proyecto incorpora documentación mediante **JavaDoc** para:
 
 ---
 
+## ▶️ Ejecución del archivo JAR
+
+El proyecto incorpora un archivo ejecutable ubicado en:
+
+```plaintext
+dist/LlanquihueTourApp.jar
+```
+
+Para ejecutarlo desde una terminal posicionada en la raíz del proyecto:
+
+```bash
+java -jar dist/LlanquihueTourApp.jar
+```
+
+## 📑 Visualización de JavaDoc
+
+La documentación generada se encuentra dentro de la carpeta:
+
+```plaintext
+docs
+```
+
+El archivo principal de la documentación es:
+
+```plaintext
+docs/index.html
+```
+
+Este archivo puede abrirse directamente en un navegador web.
+
+
 **Repositorio GitHub:**
 
 https://github.com/devmaxpower/LlanquihueTourApp
